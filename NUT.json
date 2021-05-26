@@ -1,0 +1,175 @@
+[{
+  "_id": {
+    "$oid": "608032ecfe27bffcd1a3b7a7"
+  },
+  "MaUT": "UT01",
+  "Hoten": "Nguyen Van Toan",
+  "NgaySinh": {
+    "$date": "2001-04-12T00:00:00Z"
+  },
+  "DiaChi": "15/7 CMT8, TPHCM",
+  "Gmail": "Toan@gmail.com",
+  "SDT": "01674764855",
+  "CongTy": [
+    {
+      "MaCty": "CT01",
+      "TenCty": "Cong ty PBT",
+      "CongViec": [
+        {
+          "MaCV": "Ma01",
+          "TenCV": "Lap Trinh Java"
+        }
+      ]
+    }
+  ],
+  "TrinhDo": "Cao Dang"
+},{
+  "_id": {
+    "$oid": "608033f3fe27bffcd1a3b7a8"
+  },
+  "MaUT": "UT02",
+  "Hoten": "Nguyen Duc Trung",
+  "NgaySinh": {
+    "$date": "2000-08-14T17:00:00Z"
+  },
+  "DiaChi": "20 Đường s7, TPHCM",
+  "Gmail": "Trung@gmail.com",
+  "SDT": "0374753613",
+  "CongTy": [
+    {
+      "MaCty": "CT02",
+      "TenCty": "Cong ty Acer",
+      "CongViec": [
+        {
+          "MaCV": "Ma05",
+          "TenCV": "Thu Ngan"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60803523fe27bffcd1a3b7a9"
+  },
+  "MaUT": "UT03",
+  "Hoten": "Nguyen Huynh Nhi",
+  "NgaySinh": {
+    "$date": "2000-05-06T17:00:00Z"
+  },
+  "DiaChi": "12 Pham Van Dong, TPTuyHoa",
+  "Gmail": "HN@gmail.com",
+  "SDT": "01234545667",
+  "CongTy": [
+    {
+      "MaCty": "CT04",
+      "TenCty": "Cong ty TH",
+      "CongViec": [
+        {
+          "MaCV": "Ma05",
+          "TenCV": "Thu Ngan"
+        }
+      ]
+    }
+  ],
+  "TrinhDo": "Dai Hoc"
+},{
+  "_id": {
+    "$oid": "6080367bfe27bffcd1a3b7ab"
+  },
+  "MaUT": "UT04",
+  "Hoten": "Pham Van Bach",
+  "NgaySinh": {
+    "$date": "2000-02-12T00:00:00Z"
+  },
+  "DiaChi": "155 Đống Đa, HaNoi",
+  "Gmail": "Bach@gmail.com",
+  "SDT": "04312351232",
+  "CongTy": [
+    {
+      "MaCty": "CT03",
+      "TenCty": "Cong ty Java",
+      "CongViec": [
+        {
+          "MaCV": "Ma01",
+          "TenCV": "Lap Trinh Java"
+        }
+      ]
+    }
+  ],
+  "TrinhDo": "Cao Dang"
+},{
+  "_id": {
+    "$oid": "60803728fe27bffcd1a3b7ac"
+  },
+  "MaUT": "UT05",
+  "Hoten": "Le trong Tan",
+  "NgaySinh": {
+    "$date": "1992-04-22T00:00:00Z"
+  },
+  "DiaChi": "140 Le Trong Tan, HaNoi",
+  "Gmail": "Tan@gmail.com",
+  "SDT": "052351232",
+  "CongTy": [
+    {
+      "MaCty": "CT06",
+      "TenCty": "Cong ty K9",
+      "CongViec": [
+        {
+          "MaCV": "Ma02",
+          "TenCV": "Lap Trinh Web"
+        }
+      ]
+    }
+  ],
+  "TrinhDo": "THPT"
+},{
+  "_id": {
+    "$oid": "60803785fe27bffcd1a3b7ad"
+  },
+  "MaUT": "UT06",
+  "Hoten": "Van Minh Trong",
+  "NgaySinh": {
+    "$date": "1994-05-12T00:00:00Z"
+  },
+  "DiaChi": "252 Nguyen Trai, TPHCM",
+  "Gmail": "Trong@gmail.com",
+  "SDT": "0989505037",
+  "CongTy": [
+    {
+      "MaCty": "CT05",
+      "TenCty": "Cong ty MEP",
+      "CongViec": [
+        {
+          "MaCV": "Ma09",
+          "TenCV": "KyThuatVien"
+        }
+      ]
+    }
+  ],
+  "TrinhDo": "Dai Hoc"
+},{
+  "_id": {
+    "$oid": "60803851fe27bffcd1a3b7ae"
+  },
+  "MaUT": "UT07",
+  "Hoten": "Vu Minh Trung",
+  "NgaySinh": {
+    "$date": "1996-02-24T00:00:00Z"
+  },
+  "DiaChi": "125/2 Hoa Hung, TPHCM",
+  "Gmail": "Trung1@gmail.com",
+  "SDT": "0989505065",
+  "CongTy": [
+    {
+      "MaCty": "CT01",
+      "TenCty": "Cong ty PBT",
+      "CongViec": [
+        {
+          "MaCV": "Ma01",
+          "TenCV": "Lap Trinh Java"
+        }
+      ]
+    }
+  ],
+  "TrinhDo": "Dai Hoc"
+}]
